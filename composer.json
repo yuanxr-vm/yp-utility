@@ -1,0 +1,20 @@
+{
+    "name": "yuanxr/yp-utility",
+    "description": "php utility library",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "yuanxr-vm",
+            "email": "yuanxr-vm@qq.com"
+        }
+    ],
+    "require": {
+        "php": ">=7.2"
+    },
+    "autoload": {
+        "psr-4": {
+            "Utility\\": "Utility"
+        }
+    }
+}
